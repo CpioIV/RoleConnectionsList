@@ -4,7 +4,7 @@ format:
 user=rank
 
 ranks:
-ManagementTeam
-CommunityManagementTeam
-DirectorshipTeam
-FoundingTeam
+- ManagementTeam
+- CommunityManagementTeam
+- DirectorshipTeam
+- FoundingTeam
