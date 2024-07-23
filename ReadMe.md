@@ -8,3 +8,4 @@ ranks:
 - CommunityManagementTeam
 - DirectorshipTeam
 - FoundingTeam
+- DevelopmentTeam
